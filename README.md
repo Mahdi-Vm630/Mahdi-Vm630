@@ -19,19 +19,3 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Python+Developer;Web+Security+Enthusiast;On+the+path+to+Penetration+Testing" alt="Typing SVG" />
 </p>
-
----
-
-### 👨‍💻 About Me
-
-I'm **Mahdi** — a passionate Python developer on a mission to master web security and become a penetration tester.
-
-- 🐍 Python developer with experience building various projects — from automation scripts to web applications
-- 🎯 **Current goal**: Deep diving into web security and stepping into the world of Penetration Testing
-- 📂 Version control with **Git** and **GitHub** for team and personal projects
-- 🗄️ Working with **MySQL** and **SQLite** databases in real-world projects
-- 🌱 Transitioning from developer to security professional — I believe the best hackers are great developers first
-
-> *"To break into a system, you first need to know how to build it. I'm learning to build so I can later secure it."*
-
----
