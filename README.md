@@ -15,3 +15,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/hejazizo?label=Followers&style=social" />
+</p>
